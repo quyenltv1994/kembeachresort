@@ -1,0 +1,66 @@
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1920px" height="784.225px" viewBox="0 0 1930 765.225" enable-background="new 0 0 1920 784.225" xml:space="preserve">
+
+	 <defs>
+          	<style>
+          		.st2{
+          		stroke-dasharray: 2000;
+          		stroke-dashoffset: 0;
+          		stroke: #AC6C0F;
+          		-o-animation: dash 2s linear forwards;
+          		-webkit-animation: dash 2s linear forwards;
+          		-moz-animation: dash 2s linear forwards;
+          		animation: dash 2s linear forwards;
+          		}
+          #st-2{
+            -webkit-animation-delay: 1s;
+            -moz-animation-delay: 1s;
+            -o-animation-delay: 1s;
+            animation-delay: 1s;
+          }
+          #st-3{
+            -webkit-animation-delay: 2s;
+            -moz-animation-delay: 2s;
+            -o-animation-delay: 2s;
+            animation-delay: 2s;
+          }
+          #st-4{
+            -webkit-animation-delay: 3s;
+            -moz-animation-delay: 3s;
+            -o-animation-delay: 3s;
+            animation-delay: 3s;
+          }
+
+          		@keyframes dash {
+                    from{
+                      stroke-dashoffset: 2000;
+
+                    }
+                    to{
+                      stroke-dashoffset: 0;
+                    }
+                  }
+                  @-webkit-keyframes dash {
+                    from{
+                      stroke-dashoffset: 2000;
+                    }
+                    to{
+                      stroke-dashoffset: 0;
+                    }
+                  }
+          	</style>
+          </defs>
+
+<g>
+	<path class="st2" fill="none" stroke-width="3" stroke-miterlimit="10" d="M800.811,166.699c0,0,37.689-12.129,45.427-14.33
+		c9.734,4.799,42.094,8.063,44.416,7.056c7.075-3.069,37.545-16.284,37.545-16.284l9.227,4.343l55.364-19.541l3.257-8.141
+		l132.851-47.003c9.827-4.88,14.702,0.938,19.13,4.213c4.426,3.275,13.025,9.68,13.025,9.68s10.27,10.976,10.27,23.226
+		c0,13.75,0,171,0,171c1.571,22-10.602,23.404-18.767,23.442l-444.705,2.067v149.491c0,0,0.375,10.183-14.375,10.183
+		s-61.244,0-61.244,0c-9.172-0.183-9-6.683-9-14.933s0.006-235.434,0.295-238.55c-0.467-16.033,13.361-22.756,21.51-23.358
+		c8.189,0.158,110.017-8.125,110.017-8.125l39.263-12.237V66.248"/>
+</g>
+<rect y="-3.864" fill="none" width="1920" height="792.827"/>
+<image overflow="visible" width="516" height="82" xlink:href="The luxury.png"  transform="matrix(0.24 0 0 0.24 734.5 42.5)">
+</image>
+</svg>

@@ -1,0 +1,85 @@
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1920px" height="784.225px" viewBox="0 0 1930 765.225" enable-background="new 0 0 1920 784.225" xml:space="preserve">
+
+	 <defs>
+          	<style>
+          		.st2{
+          		stroke-dasharray: 2000;
+          		stroke-dashoffset: 0;
+          		stroke: #AC6C0F;
+          		-o-animation: dash 2s linear forwards;
+          		-webkit-animation: dash 2s linear forwards;
+          		-moz-animation: dash 2s linear forwards;
+          		animation: dash 2s linear forwards;
+          		}
+          #st-2{
+            -webkit-animation-delay: 1s;
+            -moz-animation-delay: 1s;
+            -o-animation-delay: 1s;
+            animation-delay: 1s;
+          }
+          #st-3{
+            -webkit-animation-delay: 2s;
+            -moz-animation-delay: 2s;
+            -o-animation-delay: 2s;
+            animation-delay: 2s;
+          }
+          #st-4{
+            -webkit-animation-delay: 3s;
+            -moz-animation-delay: 3s;
+            -o-animation-delay: 3s;
+            animation-delay: 3s;
+          }
+
+          		@keyframes dash {
+                    from{
+                      stroke-dashoffset: 2000;
+
+                    }
+                    to{
+                      stroke-dashoffset: 0;
+                    }
+                  }
+                  @-webkit-keyframes dash {
+                    from{
+                      stroke-dashoffset: 2000;
+                    }
+                    to{
+                      stroke-dashoffset: 0;
+                    }
+                  }
+          	</style>
+          </defs>
+
+<g>
+	<path class="st2" fill="none" stroke-width="3" stroke-miterlimit="10" d="M1413.529,303.335l56.422,47.731l47.493,108.38
+		c7.11,19.472-6.286,38.087-15.163,43.611c-9.395,12.858-108.353,39.673-147.312,51.241c-28.75,0-158.75,0-158.75,0
+		s-9.818,2.125-13.409-14.296c-0.125-20.086-2.454-392.091-2.454-392.091c-1.637-18.996,12.968-25.367,19.642-22.435
+		c6.704,2.955,208.216,173.358,208.216,173.358h137.646"/>
+	<path class="st2" fill="none" stroke-width="3" stroke-miterlimit="10" d="M800.811,166.699c0,0,37.689-12.129,45.427-14.33
+		c9.734,4.799,42.094,8.063,44.416,7.056c7.075-3.069,37.545-16.284,37.545-16.284l9.227,4.343l55.364-19.541l3.257-8.141
+		l132.851-47.003c9.827-4.88,14.702,0.938,19.13,4.213c4.426,3.275,13.025,9.68,13.025,9.68s10.27,10.976,10.27,23.226
+		c0,13.75,0,171,0,171c1.571,22-10.602,23.404-18.767,23.442l-444.705,2.067v149.491c0,0,0.375,10.183-14.375,10.183
+		s-61.244,0-61.244,0c-9.172-0.183-9-6.683-9-14.933s0.006-235.434,0.295-238.55c-0.467-16.033,13.361-22.756,21.51-23.358
+		c8.189,0.158,110.017-8.125,110.017-8.125l39.263-12.237V66.248"/>
+	<path class="st2" fill="none" stroke-width="3" stroke-miterlimit="10" d="M379.471,200.898l203.677-8.313
+		c0,0,15.186-1.944,17.796,18.194c0.107,18.472,0.107,328.472,0.107,328.472c-1.309,13.124-0.815,20.388-24.823,20.271
+		c-23.009-0.113-224.104-3.217-270.613,15.95c-46.51,19.167-112.083,46.598-112.083,46.598c-24.312,10.183-37.756,6.85-37.754-17.15
+		c0.002-24,0.028-369.65,0.028-369.65c-0.585-17.018,11.086-25.907,28.099-26.584c17.013-0.677,190.032-7.748,190.032-7.748v-89.784
+		"/>
+	<path class="st2" fill="none" stroke-width="3" stroke-miterlimit="10" d="M802.222,466.101h-75.837
+		c-9.663-0.683-11.816-6.183-11.816-17.183s0.043-121.046,0.043-121.046c0.61-11.704,8.11-11.982,15.86-10.843
+		c7.75,1.139,429.028,0,429.028,0s11.816-0.361,11.816,13.639s0,122,0,122c-0.347,11.5-6.847,13.433-15.347,13.433
+		s-349.426,0-349.426,0v203.995"/>
+</g>
+<rect y="-3.864" fill="none" width="1920" height="792.827"/>
+<a xmlns="http://www.w3.org/2000/svg" xlink:href="http://goldenriver.vinhomes.vn/phan-khu/the-victoria/" target="_blank"><image overflow="visible" width="574" height="83" xlink:href="The Victoria.png"  transform="matrix(0.24 0 0 0.24 739 676.0801)">
+</image></a>
+<a xmlns="http://www.w3.org/2000/svg" xlink:href="http://goldenriver.vinhomes.vn/phan-khu/the-aqua/" target="_blank"><image overflow="visible" width="438" height="82" xlink:href="The Aqua.png"  transform="matrix(0.24 0 0 0.24 1546.667 289.333)">
+</image></a>
+<a xmlns="http://www.w3.org/2000/svg" xlink:href="http://goldenriver.vinhomes.vn/phan-khu/the-luxury/" target="_blank"><image overflow="visible" width="516" height="82" xlink:href="The luxury.png"  transform="matrix(0.24 0 0 0.24 734.5 42.5)">
+</image></a>
+<image overflow="visible" width="471" height="80" xlink:href="The Front.png"  transform="matrix(0.24 0 0 0.24 317.5 87.5)">
+</image>
+</svg>
